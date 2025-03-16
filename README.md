@@ -21,14 +21,14 @@ About Me:
 
 I'm an aspiring Data Scientist| Data Analyst
 
-I am currently pursuing degree of  **M.Tech**. 
-I am a final year **Computer Science and Engineering** student at **IIIT DELHI**
+I am currently pursuing a **M.Tech** degree. 
+I am a final year student of **Computer Science and Engineering** department at **IIIT DELHI**
 
 
 ### Social Handle - Connect with me on these platforms:
 
-LinkdIn : https://www.linkedin.com/in/riya-dhama-31a894189/
+LinkdIn: https://www.linkedin.com/in/riya-dhama-31a894189/
 
-Gmail : riyadhama19@gmail.com
+Gmail: riyadhama19@gmail.com
 
 Don't forget to check out my latest projects : 
